@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/regio-sale/static/css/main.e6c13ad2.css",
+    "main.js": "/regio-sale/static/js/main.3144de6e.js",
+    "index.html": "/regio-sale/index.html",
+    "main.e6c13ad2.css.map": "/regio-sale/static/css/main.e6c13ad2.css.map",
+    "main.3144de6e.js.map": "/regio-sale/static/js/main.3144de6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3144de6e.js"
+  ]
+}
